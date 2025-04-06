@@ -6,3 +6,4 @@ else:
     print(funny+". haha")
 if funny == "you are funny":
     print("you are not funny")
+    
